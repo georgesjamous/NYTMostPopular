@@ -23,7 +23,7 @@ to complete it by a reasonable amount of time which is 2-3 hours max.
 - Storyboards are no used, custom code programmatically places each component on screen. This allows for better and more precise design.
 - Testing is not complete for demo purpose, only a fraction of the functions and UI are tested. (<20% code coverage)
 - No external libraries were used in this repo. Everything is written in Swift.
-- Swift lister such as SwiftGen can be easily added using Pods
+- Swift linter such as SwiftGen can be easily added using Pods
 
 ---
 
